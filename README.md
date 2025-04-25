@@ -1,6 +1,6 @@
 <h1 align="center">~ Hey! I'm Saif Mohammed Omer  ~</h1>
 
-I'm a passionate web developer with a Computer Science background, currently exploring opportunities in full-stack development. I love building fast, responsive, and user-focused web apps using modern tech like React, Node.js, Express, MongoDB, and Next.js. I've completed my undergrad on **Information Technology** at _[IIT,JU](https://iitju.edu.bd/)_.
+I'm a passionate web developer with a Computer Science background, currently exploring opportunities in full-stack development. I love building fast, responsive, and user-focused web apps using modern tech like React, Node.js, Express, MongoDB, and Next.js. I've completed my undergrad on **Information Technology** at _[IIT,JU](https://iitju.edu.bd/)_. Find me here on my 🌍 website(https://portfolio-muhammad-saifs-projects-5b307dbf.vercel.app/)
 
 > 💼 *Actively looking for web development roles (frontend, backend or full-stack)! Let's build something awesome together.*
 > 💡 *I'm open to new opportunities in the domain of web development and devops*

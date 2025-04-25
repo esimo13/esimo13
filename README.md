@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm [Your Name]!
 
-<!--
-**esimo13/esimo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student and aspiring Software Engineer 🚀. I love building projects, exploring new tech, and contributing to open source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**  
+- 💻 Languages: C++, Java, Python, JavaScript  
+- 🌐 Web: HTML, CSS, React, Node.js  
+- 🛢️ Databases: MySQL, MongoDB  
+- ⚙️ Tools: Git, GitHub, VS Code, Postman
+
+---
+
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_

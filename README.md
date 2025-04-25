@@ -40,3 +40,8 @@ I've worked on a bunch of projects for over 5 years now and discovered that I pr
 
 ---
 > ***I'm available via 📫 [email](mailto:obak1399@gmail.com) (or if you're tired of professionalism there's 💬 [messenger](https://m.me/WelcomeToTheESIMOShow)). Always up for a chat — whether it’s brainstorming cool projects, diving into geeky tech talk, or just sharing thoughts over coffee (virtual or real)!***
+>
+> ### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=esimo13&show_icons=true&theme=radical)
+

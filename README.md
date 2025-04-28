@@ -30,7 +30,7 @@ I've worked on a bunch of projects for over 5 years now and discovered that I pr
 ### 🌟 Things I've tinkered with & explored along the way 🚀~
 <!-- TODO: Update after you finish adding buet projects -->
 - Backends based on [Django](https://www.djangoproject.com/) (Python), [Flask](https://flask.palletsprojects.com/) (Python) and [Express.js](https://expressjs.com/) (Node.js) frameworks!
-- Cloud infrastructure on AWS using services like [EC2](https://aws.amazon.com/ec2/), [ecs](https://aws.amazon.com/ecs/)
+- Cloud infrastructure on AWS using services like [EC2](https://aws.amazon.com/ec2/), [ECS](https://aws.amazon.com/ecs/)
 - CI/CD pipelines with [Azure Devops](https://azure.microsoft.com/en-us/products/devops) and [Github Actions](https://docs.github.com/en/actions)!
 - Blockchain (DAPP) development on EVM-based [Celo](https://celo.org/) / [Ethereum](https://ethereum.org/en/) using [Solidity](https://soliditylang.org/), [Hardhat](https://hardhat.org/)& [Web3.js](https://web3js.readthedocs.io/)!
 - Payment gateway integration using [Stripe](https://stripe.com/)

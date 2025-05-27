@@ -1,47 +1,84 @@
-<h1 align="center">~ Hey! I'm Saif Mohammed Omer  ~</h1>
+<h1 align="center">👋 Hey! I'm Saif Mohammed Omer</h1>
 
-I'm a passionate web developer with a Computer Science background, currently exploring opportunities in full-stack development. I love building fast, responsive, and user-focused web apps using modern tech like React, Node.js, Express, MongoDB, and Next.js. I've completed my undergrad on **Information Technology** at _[IIT,JU](https://iitju.edu.bd/)_. Find me here on my 🌍 [website](https://portfolio-muhammad-saifs-projects-5b307dbf.vercel.app/)
-
-> 💼 *Actively looking for web development roles (frontend, backend or full-stack)! Let's build something awesome together.*
-> 💡 *I'm open to new opportunities in the domain of web development and devops*
-
-### 🧠 My Skills!
-
-<p>
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual-studio" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" /> 
+<p align="center">
+  🚀 Full-Stack Developer | 💻 DevOps Enthusiast | 🌐 Open Source Contributor <br>
+  <a href="https://portfolio-muhammad-saifs-projects-5b307dbf.vercel.app/">🌍 Visit My Portfolio</a> |
+  <a href="mailto:obak1399@gmail.com">📫 Email Me</a> |
+  <a href="https://m.me/WelcomeToTheESIMOShow">💬 Messenger</a>
 </p>
 
-- **Backend** - Redis Express.js
-- **Infra** - Azure Service AWS Docker 
-- **Database** - SQL PostgreSQL MongoDB
-- **Tools** - Git     
-- **Languages** -  Python Javscript C C++
+---
 
-I've worked on a bunch of projects for over 5 years now and discovered that I prefer working more on the MERN stack and Devops. 
+🎓 I'm a passionate **Web Developer** with a background in **Information Technology** from [IIT, JU](https://iitju.edu.bd/). I specialize in **full-stack development**, and I love creating fast, secure, and user-friendly web applications using the latest technologies.
 
-### 🌟 Things I've tinkered with & explored along the way 🚀~
-<!-- TODO: Update after you finish adding buet projects -->
-- Backends based on [Django](https://www.djangoproject.com/) (Python), [Flask](https://flask.palletsprojects.com/) (Python) and [Express.js](https://expressjs.com/) (Node.js) frameworks!
-- Cloud infrastructure on AWS using services like [EC2](https://aws.amazon.com/ec2/), [ECS](https://aws.amazon.com/ecs/)
-- CI/CD pipelines with [Azure Devops](https://azure.microsoft.com/en-us/products/devops) and [Github Actions](https://docs.github.com/en/actions)!
-- Blockchain (DAPP) development on EVM-based [Celo](https://celo.org/) / [Ethereum](https://ethereum.org/en/) using [Solidity](https://soliditylang.org/), [Hardhat](https://hardhat.org/)& [Web3.js](https://web3js.readthedocs.io/)!
-- Payment gateway integration using [Stripe](https://stripe.com/)
-- Mobile apps with [Flutter](https://flutter.dev/)!
-- Object Oriented Programming with Java, [JavaFX](https://openjfx.io/)
-
+> 💼 *Currently open to Frontend, Backend, and Full-Stack roles. Let’s build something awesome together!*  
+> 🧠 *Exploring DevOps & cloud-native architectures*
 
 ---
-> ***I'm available via 📫 [email](mailto:obak1399@gmail.com) (or if you're tired of professionalism there's 💬 [messenger](https://m.me/WelcomeToTheESIMOShow)). Always up for a chat — whether it’s brainstorming cool projects, diving into geeky tech talk, or just sharing thoughts over coffee (virtual or real)!***
->
-> ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=esimo13&show_icons=true&theme=radical)
+### 🔧 Tech Stack & Tools
 
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `C++` `Java`
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**DevOps & Cloud:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Others:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌱 What I'm Currently Exploring
+
+- 🔄 **CI/CD**: Azure DevOps, GitHub Actions  
+- 🧱 **Blockchain**: Ethereum, Solidity, Hardhat, Web3.js  
+- 📲 **Mobile**: Flutter  
+- 💳 **Payments**: Stripe API  
+- 🧠 **OOP**: Java, JavaFX  
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esimo13&show_icons=true&theme=radical" alt="esimo13's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esimo13&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
+
+---
+
+### ✨ Fun Projects I've Worked On
+- 🧠 **EEG Seizure Predictor** using Flask + ML + React
+- 🌐 **Full-stack Crypto Exchange Mock** using MERN + Docker + WebSockets
+- 📦 **DevOps Pipelines**: Docker Compose, CI/CD using GitHub Actions
+- 📱 **Mobile Banking UI Clone** in Flutter
+
+---
+
+### ☕ Let's Connect
+
+> I'm always open to collaborating on interesting projects, speaking at events, or mentoring aspiring devs. Whether it’s a professional inquiry or just tech banter — feel free to reach out!
+
+---
+
+<p align="center">Made with ❤️ in Bangladesh 🇧🇩</p>

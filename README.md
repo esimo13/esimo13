@@ -1,4 +1,7 @@
-<h1 align="center">~ Hey! I'm Saif Mohammed Omer  ~</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Hey!+I'm+Saif+Mohammed+Omer;Full-Stack+Web+Developer;DevOps+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 
 I'm a passionate web developer with a Computer Science background, currently exploring opportunities in full-stack development. I love building fast, responsive, and user-focused web apps using modern tech like React, Node.js, Express, MongoDB, and Next.js. I've completed my undergrad on **Information Technology** at _[IIT,JU](https://iitju.edu.bd/)_. Find me here on my 🌍 [website](https://portfolio-muhammad-saifs-projects-5b307dbf.vercel.app/)
 

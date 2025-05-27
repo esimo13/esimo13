@@ -43,5 +43,7 @@ I've worked on a bunch of projects for over 5 years now and discovered that I pr
 >
 > ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=esimo13&show_icons=true&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=esimo13&theme=github-compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esimo13&show_icons=true&theme=radical" alt="esimo13's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esimo13&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
